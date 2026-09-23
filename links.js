@@ -17,7 +17,7 @@ links = [
         title : "Jai Matthews Website",
         subt : "The website that you're on right now!",
         date : new Date(2023,4,13),
-        href : "",
+        href : "https://github.com/Jaimatt/Jaimatt.github.io",
         portfolio : "read/website",
         old : false,
         img : "assets/icon-square.png",
