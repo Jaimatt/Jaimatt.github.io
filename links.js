@@ -12,7 +12,6 @@ links = [
         img_top : false,
         listed : true
     },
-
     {
         title : "Jai Matthews Website",
         subt : "The website that you're on right now!",
@@ -84,7 +83,7 @@ links = [
         subt : "Council booking system for Yr11 major computer science project.",
         date : new Date(2022,5,30),
         "href_old" : "https://bookabench.jaimatthews.cf/",
-        href : false,
+        href : "https://github.com/Jaimatt/bookabench",
         portfolio : "read/bookabench",
         old : true,
         img : "assets/thumbnails/bab_tall.png",
@@ -96,7 +95,7 @@ links = [
         subt : "Website for a high school advertising agency project.",
         date : new Date(2021,9,25),
         "href_old" : "https://carliandco.cf/",
-        href : "cnc",
+        href : "cnc-basic",
         portfolio : false,
         old : true,
         img : "assets/thumbnails/vaccine.png",
@@ -107,10 +106,10 @@ links = [
         title : "Getting Trashed",
         subt : "Rubbish bin game for Yr10 computer science project.",
         date : new Date(2021,5,29),
-        href : "gettingtrashed",
+        href : "getting-trashed",
         portfolio : "read/gettingtrashed",
         old : true,
-        img : "gettingtrashed/assets/image.jpg",
+        img : "assets/thumbnails/trash.jpg",
         img_top : false,
         listed : true
     },
@@ -121,7 +120,7 @@ links = [
         href : "stressdetector",
         portfolio : false,
         old : true,
-        img : "stressdetector/Assets/SIK_Arduino_Uno.jpg",
+        img : "assets/thumbnails/stress.jpg",
         img_top : false,
         listed : true
     },
@@ -154,7 +153,7 @@ links = [
         href : "gravity",
         portfolio : "read/gravity",
         old : true,
-        img : "gravity/assets/gi1.png",
+        img : "assets/thumbnails/gi1.png",
         img_top : true,
         listed : true
     },
@@ -165,7 +164,7 @@ links = [
         href : "balls",
         portfolio : "read/balls",
         old : false,
-        img : "balls/shatter.png",
+        img : "assets/thumbnails/shatter.png",
         img_top : false,
         listed : true
     },
@@ -228,7 +227,7 @@ links = [
         title : "SMO Speedrun Timer",
         subt : "A timer I created for measuring the speed of Super Mario Odyssey speedruns.",
         date : new Date(2023,4,12),
-        href : "docs/smo",
+        href : "smo",
         portfolio : false,
         old : true,
         img : "assets/thumbnails/smo.png",
