@@ -3,7 +3,7 @@ changes = [
         change : "Mass project migration",
         date : "23 September 2026",
         description : "Almost all projects have been moved from subfolders of the website repository into their own respective repositories. Website functionality remains unchanged. Also, added BookABench, insofar as it links to the github repository.",
-        important : false
+        important : true
     },
 
     {
