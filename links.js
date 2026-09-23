@@ -131,7 +131,7 @@ links = [
         href : false,
         portfolio : false,
         old : false,
-        img : "balls/shatter.png",
+        img : "balls/balls.png",
         img_top : false,
         listed : false
     },
@@ -153,7 +153,7 @@ links = [
         href : "gravity",
         portfolio : "read/gravity",
         old : true,
-        img : "assets/thumbnails/gi1.png",
+        img : "assets/thumbnails/gravity.png",
         img_top : true,
         listed : true
     },
@@ -164,7 +164,7 @@ links = [
         href : "balls",
         portfolio : "read/balls",
         old : false,
-        img : "assets/thumbnails/shatter.png",
+        img : "assets/thumbnails/balls.png",
         img_top : false,
         listed : true
     },

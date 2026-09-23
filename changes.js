@@ -1,5 +1,12 @@
 changes = [
     {
+        change : "Mass project migration",
+        date : "23 September 2026",
+        description : "Almost all projects have been moved from subfolders of the website repository into their own respective repositories. Website functionality remains unchanged. Also, added BookABench, insofar as it links to the github repository.",
+        important : false
+    },
+
+    {
         change : "Website Simplification & New Content",
         date : "6 March 2026",
         description : "Simplified the website to one list of projects, with the optional 'older projects' expansion which lists smaller & older projects. At the top are links to social medias. I also removed several projects which were no longer relevant to my online portfolio. I added a direct link to the homepage for the SMO speedrun, I added a new Game Jam game: Genesis, and I added my Advent of Code submissions. Instagram posts page no longer accessible due to API issues. Other administrative changes.",
